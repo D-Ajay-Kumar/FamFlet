@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "1024911830570",
+    "firebase_url": "https://famflet.firebaseio.com",
+    "project_id": "famflet",
+    "storage_bucket": "famflet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024911830570:android:0d23f2fd26e77e2bbf5d53",
+        "android_client_info": {
+          "package_name": "com.kumard.famflet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024911830570-dhg1avnibpn6jkk2kn10n4loaqbtrb8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kumard.famflet",
+            "certificate_hash": "9501732625973a9efd02e0bf1ba1c90796d678bf"
+          }
+        },
+        {
+          "client_id": "1024911830570-7s4113uo5o8jhjubb08rd07r57c33vp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kumard.famflet",
+            "certificate_hash": "67d7280a85da309def0e84dfa393b3fe088346dd"
+          }
+        },
+        {
+          "client_id": "1024911830570-d7dlmmc0jpibklb1p3n6shrf6iuqd694.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kumard.famflet",
+            "certificate_hash": "b7abffc50d6f1195733a4ad1681d2b491878106c"
+          }
+        },
+        {
+          "client_id": "1024911830570-3mtojemhogb361ete5qjhunue5eq5s8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNt-Xhf1yBzBwbWRhixryNZvXwEJPpEng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024911830570-3mtojemhogb361ete5qjhunue5eq5s8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
