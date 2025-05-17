@@ -1,16 +1,6 @@
-# FamFlet
+# FamFlet - Bake.Buy.Sell
 
-A new Flutter project.
+FamFlet is an Ad-posting App created for college students to buy and sell notes, books, tools, etc. to other students nearby. We aim at providing an simple interface for students to sell what they don't use anymore and buy what they need from fellow students.
 
-## Getting Started
+![Alt text]([http://full/path/to/img.jpg](https://drive.google.com/file/d/1gtacyFH3PqZPBc5Z_RFcXbplGkQIHtZ3/view?usp=sharing) "Optional title")
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
